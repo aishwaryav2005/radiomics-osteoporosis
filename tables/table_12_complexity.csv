@@ -1,6 +1,0 @@
-Config,Model,Total parameters,Parameters (M),Trainable parameters,Non-trainable parameters,GFLOPs (batch 1) [calculated],GMACs [calculated],Model size (MB) [measured],"Inference ms/image [measured, CPU]",Inference SD (ms),"Batched ms/image [measured, CPU]",Head training time per fold (s) [measured],Head inference ms/image [measured],Peak process memory (MB) [measured],Device
-A1,VGG19,20188737,20.189,164353,20024384,39.0383,19.5192,77.12,285.236,37.15,196.588,9.06,0.8125,1903.87,CPU (no CUDA GPU available)
-A2,VGG19 + InceptionResNetV2,74918689,74.919,557569,74361120,52.0098,26.0049,288.47,1173.609,24.527,399.03,9.32,0.8229,3232.95,CPU (no CUDA GPU available)
-A3,VGG19 + MobileNetV2,22774401,22.774,492033,22282368,39.652,19.826,87.54,431.119,26.76,226.034,9.46,0.8033,3232.95,CPU (no CUDA GPU available)
-A4,InceptionResNetV2 + MobileNetV2,57348897,57.349,754177,56594720,13.5852,6.7926,221.92,1134.203,67.943,248.695,11.21,0.852,4166.57,CPU (no CUDA GPU available)
-A5,VGG19 + InceptionResNetV2 + MobileNetV2,77504353,77.504,885249,76619104,52.6234,26.3117,298.89,1411.866,12.876,382.281,9.86,0.8348,6077.51,CPU (no CUDA GPU available)

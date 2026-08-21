@@ -1,5 +1,0 @@
-Metric,Comparison,Full model,Reduced variant,Folds,Mean (full),Mean (variant),Mean difference,Cohen's d (paired),Paired t,Paired t p,Paired t p (Holm),"Significant (t, Holm)",Wilcoxon W,Wilcoxon p,Wilcoxon p (Holm),"Significant (Wilcoxon, Holm)"
-accuracy,A5 vs A1,VGG19 + InceptionResNetV2 + MobileNetV2,VGG19,5,0.8044,0.7537,0.0506,1.692,3.784,0.01937,0.07748,no,0.0,0.0625,0.25,no
-accuracy,A5 vs A2,VGG19 + InceptionResNetV2 + MobileNetV2,VGG19 + InceptionResNetV2,5,0.8044,0.8044,-0.0001,-0.004,-0.009,0.99325,1.0,no,7.0,1.0,1.0,no
-accuracy,A5 vs A3,VGG19 + InceptionResNetV2 + MobileNetV2,VGG19 + MobileNetV2,5,0.8044,0.7951,0.0093,0.265,0.593,0.58528,1.0,no,5.0,0.625,1.0,no
-accuracy,A5 vs A4,VGG19 + InceptionResNetV2 + MobileNetV2,InceptionResNetV2 + MobileNetV2,5,0.8044,0.7981,0.0063,0.233,0.521,0.62969,1.0,no,6.0,0.8125,1.0,no

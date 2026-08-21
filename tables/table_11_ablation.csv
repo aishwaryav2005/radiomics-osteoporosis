@@ -1,6 +1,0 @@
-Config,Backbone combination,Branches,Branch removed,Fused dim,Accuracy (%),Precision (%),Recall (%),F1-score (%),Sensitivity (%),Specificity (%),ROC-AUC,Parameters (M),GFLOPs,Δ Accuracy vs A5 (pp),Δ F1 vs A5 (pp)
-A1,VGG19,1,InceptionResNetV2 and MobileNetV2 removed,512,75.37 ± 4.61,71.38 ± 2.73,78.04 ± 6.65,74.51 ± 4.29,78.04 ± 6.65,73.11 ± 3.68,82.14 ± 2.54,20.19,39.04,-5.06,-5.1
-A2,VGG19 + InceptionResNetV2,2,MobileNetV2 removed,2048,80.44 ± 3.12,77.47 ± 5.03,82.63 ± 6.49,79.67 ± 1.45,82.63 ± 6.49,77.80 ± 9.79,86.97 ± 3.19,74.92,52.01,0.01,0.06
-A3,VGG19 + MobileNetV2,2,InceptionResNetV2 removed,1792,79.51 ± 4.34,76.23 ± 3.11,81.46 ± 5.00,78.70 ± 3.22,81.46 ± 5.00,77.76 ± 5.72,84.36 ± 3.21,22.77,39.65,-0.93,-0.91
-A4,InceptionResNetV2 + MobileNetV2,2,VGG19 removed,2816,79.81 ± 3.91,78.02 ± 6.39,79.91 ± 3.99,78.69 ± 1.54,79.91 ± 3.99,78.94 ± 9.72,85.58 ± 3.43,57.35,13.59,-0.63,-0.92
-A5,VGG19 + InceptionResNetV2 + MobileNetV2,3,none (full proposed model),3328,80.44 ± 2.23,77.03 ± 3.96,82.85 ± 5.98,79.61 ± 1.58,82.85 ± 5.98,77.54 ± 7.84,86.11 ± 2.47,77.5,52.62,0.0,0.0
