@@ -1,0 +1,85 @@
+ENVIRONMENT RECORD
+======================================================================
+Python            : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+Executable        : C:\Users\Elitebook 840 G9\.venvs\radiomics\Scripts\python.exe
+Platform          : Windows-11-10.0.22631-SP0
+Processor         : Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+Logical CPUs      : 12
+Physical CPUs     : 10
+RAM (GB)          : 15.64
+TensorFlow        : 2.20.0
+Keras             : 3.15.1
+TF built w/ CUDA  : False
+GPUs detected     : []
+nvidia-smi        : <unavailable: [WinError 2] The system cannot find the file specified>
+CUDA toolkit      : <unavailable: [WinError 2] The system cannot find the file specified>
+NumPy             : 2.1.3
+pandas            : 2.2.3
+SciPy             : 1.14.1
+scikit-learn      : 1.5.2
+matplotlib        : 3.9.2
+Pillow            : 11.0.0
+CPU benchmark     : {'matmul_size': 512, 'repetitions': 20, 'seconds': 0.0409, 'effective_gflops': 131.42, 'measurement': 'measured'}
+Seeds             : {'global': 42, 'fold': 20250820, 'augmentation': 7}
+
+NOTE: No CUDA-capable GPU is present on this machine; TensorFlow runs on CPU. All timing figures in this project are therefore CPU timings and are not comparable to GPU timings reported elsewhere.
+
+pip freeze
+----------------------------------------------------------------------
+absl-py==2.5.0
+astunparse==1.6.3
+certifi==2026.7.22
+charset-normalizer==3.5.1
+colorama==0.4.6
+contourpy==1.3.3
+cycler==0.12.1
+et_xmlfile==2.0.0
+flatbuffers==25.12.19
+fonttools==4.63.0
+gast==0.7.0
+google-pasta==0.2.0
+grpcio==1.83.0
+h5py==3.16.0
+idna==3.19
+joblib==1.5.3
+keras==3.15.1
+kiwisolver==1.5.0
+libclang==18.1.1
+Markdown==3.10.3
+markdown-it-py==4.2.0
+MarkupSafe==3.0.3
+matplotlib==3.9.2
+mdurl==0.1.2
+ml_dtypes==0.6.0
+namex==0.1.0
+numpy==2.1.3
+openpyxl==3.1.5
+opt_einsum==3.4.0
+optree==0.20.0
+packaging==26.3
+pandas==2.2.3
+pillow==11.0.0
+protobuf==7.35.1
+psutil==6.1.0
+Pygments==2.21.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+requests==2.34.2
+rich==15.0.0
+scikit-learn==1.5.2
+scipy==1.14.1
+setuptools==84.0.0
+six==1.17.0
+tensorboard==2.20.0
+tensorboard-data-server==0.7.2
+tensorflow==2.20.0
+termcolor==3.3.0
+threadpoolctl==3.6.0
+tqdm==4.67.1
+typing_extensions==4.16.0
+tzdata==2026.3
+urllib3==2.7.0
+Werkzeug==3.1.8
+wheel==0.48.0
+wrapt==2.3.0

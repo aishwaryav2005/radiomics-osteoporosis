@@ -1,0 +1,9 @@
+Model (as reported in manuscript),Task (as reported),Reported accuracy (%),Reported evaluation,Measured here,Measured accuracy (mean ± SD %),Comment
+Custom CNN,Multiclass,89.1,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+VGG19,Binary,94.5,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+ResNet-50,Binary,82.16,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+DenseNet-121,Binary,92.99,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+XceptionNet,Multiclass,89.2,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+Hybrid Model 2 (DenseNet + EfficientNet),Multiclass,94.8,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+Hybrid Model 1 (VGG19 + InceptionResNetV2 + MobileNetV2),Binary,97.5,single split; illustrative CV/ablation section,not re-run,,"existing reported result, preserved unchanged"
+Hybrid Model 1 (VGG19 + InceptionResNetV2 + MobileNetV2),Binary,97.5,single split; illustrative five-fold section,"A5, real grouped five-fold CV",80.44 ± 2.23,measured on de-duplicated data with grouped folds and frozen backbones; not directly comparable to the reported single-split value

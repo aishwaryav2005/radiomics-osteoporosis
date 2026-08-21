@@ -1,0 +1,51 @@
+{
+  "backbones": {
+    "vgg19": {
+      "feature_dim": 512,
+      "expected_dim": 512,
+      "dim_matches_paper": true,
+      "params": 20024384,
+      "extraction_seconds": {
+        "0": 117.66,
+        "1": 134.7,
+        "2": 137.08,
+        "3": 141.13,
+        "4": 138.56
+      }
+    },
+    "inceptionresnetv2": {
+      "feature_dim": 1536,
+      "expected_dim": 1536,
+      "dim_matches_paper": true,
+      "params": 54336736,
+      "extraction_seconds": {
+        "0": 153.58,
+        "1": 154.87,
+        "2": 131.91,
+        "3": 141.45,
+        "4": 157.14
+      }
+    },
+    "mobilenetv2": {
+      "feature_dim": 1280,
+      "expected_dim": 1280,
+      "dim_matches_paper": true,
+      "params": 2257984,
+      "extraction_seconds": {
+        "0": 34.53,
+        "1": 37.05,
+        "2": 36.68,
+        "3": 37.24,
+        "4": 37.17
+      }
+    }
+  },
+  "n_images": 634,
+  "n_variants": 5,
+  "image_size": [
+    224,
+    224
+  ],
+  "augmentation_seed": 7,
+  "fused_feature_dim_all_three": 3328
+}

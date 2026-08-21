@@ -1,0 +1,5 @@
+Class,Files on disk (with duplicates),Unique images after de-duplication,Duplicates removed
+Normal,724,353,371
+Osteopenia,378,192,186
+Osteoporosis,625,296,329
+TOTAL,1727,841,886

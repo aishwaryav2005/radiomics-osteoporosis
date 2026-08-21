@@ -1,0 +1,12 @@
+# Radiomics knee-osteoporosis pipeline - pinned runtime requirements
+# Target: Python 3.12 on Windows (CPU-only TensorFlow; no CUDA on this machine)
+tensorflow==2.20.0
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+pillow==11.0.0
+openpyxl==3.1.5
+psutil==6.1.0
+tqdm==4.67.1

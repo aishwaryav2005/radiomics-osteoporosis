@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Datasets
+data/raw/
+data/processed/
+datasets/
+extracted_datasets/
+
+# Large dataset archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Trained models
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Model directories
+models/
+checkpoints/
+
+# Generated results
+results/
+experiments/
+
+# Generated figures
+figures/
+
+# Temporary files
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db

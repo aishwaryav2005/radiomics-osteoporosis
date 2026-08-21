@@ -1,0 +1,377 @@
+a_relpath,b_relpath,a_class,b_class,a_source,b_source,correlation,dhash_hamming,label_conflict
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N18.jpg,data\raw\dataset2\osteoporosis\normal\Normal_50.jpg,normal,normal,dataset1,dataset2,0.998992,3,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N2.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_24.jpg,normal,normal,dataset1,dataset2,0.999765,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N22.jpg,data\raw\dataset2\osteoporosis\normal\Normal_56.jpg,normal,normal,dataset1,dataset2,0.999785,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N24.jpg,data\raw\dataset2\osteoporosis\normal\Normal_59.jpg,normal,normal,dataset1,dataset2,0.999804,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N25.jpg,data\raw\dataset2\osteoporosis\normal\Normal_60.jpg,normal,normal,dataset1,dataset2,0.999815,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N26.jpg,data\raw\dataset2\osteoporosis\normal\Normal_61.jpg,normal,normal,dataset1,dataset2,0.999809,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N28.jpg,data\raw\dataset2\osteoporosis\normal\Normal_64.jpg,normal,normal,dataset1,dataset2,0.999681,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N29.jpg,data\raw\dataset2\osteoporosis\normal\Normal_65.jpg,normal,normal,dataset1,dataset2,0.9997,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N31.jpg,data\raw\dataset2\osteoporosis\normal\Normal_68.jpg,normal,normal,dataset1,dataset2,0.999746,3,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N33.jpg,data\raw\dataset2\osteoporosis\normal\Normal_71.jpg,normal,normal,dataset1,dataset2,0.99976,2,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N34.jpg,data\raw\dataset2\osteoporosis\normal\Normal_72.jpg,normal,normal,dataset1,dataset2,0.999803,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N35.jpg,data\raw\dataset2\osteoporosis\normal\Normal_73.jpg,normal,normal,dataset1,dataset2,0.99979,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\normal\N36.jpg,data\raw\dataset2\osteoporosis\normal\Normal_75.jpg,normal,normal,dataset1,dataset2,0.999807,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP100.jpg,data\raw\dataset2\osteoporosis\normal\Normal_120.jpg,osteopenia,normal,dataset1,dataset2,0.999428,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP101.jpg,data\raw\dataset2\osteoporosis\normal\Normal_122.jpg,osteopenia,normal,dataset1,dataset2,0.99975,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP102.jpg,data\raw\dataset2\osteoporosis\normal\Normal_186.jpg,osteopenia,normal,dataset1,dataset2,0.999804,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP103.jpg,data\raw\dataset2\osteoporosis\normal\Normal_158.jpg,osteopenia,normal,dataset1,dataset2,0.999813,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP104.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_89.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.9997,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP105.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_87.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999655,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP106.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_91.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.998815,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP108.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_116.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999823,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP109.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_94.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999811,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP110.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_95.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999592,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP111.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_96.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999819,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP113.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_98.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999776,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP114.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_99.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999669,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP115.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_100.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999712,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP116.jpg,data\raw\dataset2\osteoporosis\normal\Normal_138.jpg,osteopenia,normal,dataset1,dataset2,0.999763,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP117.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_101.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999581,4,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP118.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_102.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999809,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP119.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_103.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999701,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP120.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_104.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999601,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP121.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_105.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999773,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP124.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_108.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999751,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP125.jpg,data\raw\dataset2\osteoporosis\normal\Normal_148.jpg,osteopenia,normal,dataset1,dataset2,0.999557,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP126.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_110.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.99981,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP127.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_112.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999784,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP128.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_113.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999839,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP129.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_114.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999725,3,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP130.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_115.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999792,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP132.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_117.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.996591,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP133.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_118.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.99977,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP134.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_119.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999803,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP136.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_122.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999819,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP137.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_124.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.99976,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP138.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_125.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999801,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP140.jpg,data\raw\dataset2\osteoporosis\normal\Normal_159.jpg,osteopenia,normal,dataset1,dataset2,0.999798,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP141.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_127.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999797,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP142.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_128.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.99932,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP143.jpg,data\raw\dataset2\osteoporosis\normal\Normal_160.jpg,osteopenia,normal,dataset1,dataset2,0.9995,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP144.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_129.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999711,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP146.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_131.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999782,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP147.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_132.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999766,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP148.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_133.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999693,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP149.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_134.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999793,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP150.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_135.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999725,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP151.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_136.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999762,3,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP152.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_137.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999702,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP153.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_138.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999816,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP154.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_139.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999762,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP52.jpg,data\raw\dataset2\osteoporosis\normal\Normal_23.jpg,osteopenia,normal,dataset1,dataset2,0.99955,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP58.jpg,data\raw\dataset2\osteoporosis\normal\Normal_54.jpg,osteopenia,normal,dataset1,dataset2,0.99933,2,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP94.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_80.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999811,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP95.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_82.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999803,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP97.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_84.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999746,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP98.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_85.jpg,osteopenia,osteoporosis,dataset1,dataset2,0.999797,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS23.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_166.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999573,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS25.jpg,data\raw\dataset2\osteoporosis\normal\Normal_179.jpg,osteoporosis,normal,dataset1,dataset2,0.999791,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS26.jpg,data\raw\dataset2\osteoporosis\normal\Normal_180.jpg,osteoporosis,normal,dataset1,dataset2,0.999766,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS27.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_168.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999795,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS28.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_169.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999806,4,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS30.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_170.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999786,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS31.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_171.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999798,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS33.jpg,data\raw\dataset2\osteoporosis\normal\Normal_184.jpg,osteoporosis,normal,dataset1,dataset2,0.999776,0,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS34.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_173.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999716,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS35.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_174.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999704,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS36.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_175.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999795,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS37.jpg,data\raw\dataset2\osteoporosis\normal\Normal_182.jpg,osteoporosis,normal,dataset1,dataset2,0.99967,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS39.jpg,data\raw\dataset2\osteoporosis\normal\Normal_183.jpg,osteoporosis,normal,dataset1,dataset2,0.999799,1,True
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS41.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_178.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999815,2,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS42.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_179.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999773,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS43.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_180.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999807,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS44.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_181.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999808,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS45.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_182.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999791,0,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS47.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_184.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.99981,1,False
+data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS48.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_185.jpg,osteoporosis,osteoporosis,dataset1,dataset2,0.999726,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\1.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\79.JPEG,osteoporosis,osteoporosis,dataset2,dataset2,0.997156,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\1.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998382,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\1.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_47.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99691,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\10.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_9.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996825,2,False
+data\raw\dataset2\osteoporosis\normal\10.png,data\raw\dataset2\osteoporosis\normal\Normal_9.jpg,normal,normal,dataset2,dataset2,0.997907,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\100.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_58.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999562,0,False
+data\raw\dataset2\osteoporosis\normal\101.jpg,data\raw\dataset2\osteoporosis\normal\Normal_97.jpg,normal,normal,dataset2,dataset2,0.99944,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\102.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_59.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997813,4,False
+data\raw\dataset2\osteoporosis\osteoporosis\103.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_60.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999735,0,False
+data\raw\dataset2\osteoporosis\normal\104.jpg,data\raw\dataset2\osteoporosis\normal\Normal_98.jpg,normal,normal,dataset2,dataset2,0.999503,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\105.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_61.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999667,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\106.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_62.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999626,1,False
+data\raw\dataset2\osteoporosis\normal\107.jpg,data\raw\dataset2\osteoporosis\normal\Normal_99.jpg,normal,normal,dataset2,dataset2,0.999357,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\108.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_63.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998014,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\109.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_64.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999576,2,False
+data\raw\dataset2\osteoporosis\normal\11.jpg,data\raw\dataset2\osteoporosis\normal\Normal_10.jpg,normal,normal,dataset2,dataset2,0.999204,0,False
+data\raw\dataset2\osteoporosis\normal\110.jpg,data\raw\dataset2\osteoporosis\normal\Normal_100.jpg,normal,normal,dataset2,dataset2,0.99508,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\111.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_65.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999649,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\112.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_66.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999512,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\113.jpg,data\raw\dataset2\osteoporosis\osteoporosis\239.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995439,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\113.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_130.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995457,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\113.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_67.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999619,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\114.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_68.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999575,0,False
+data\raw\dataset2\osteoporosis\normal\115n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_101.jpg,normal,normal,dataset2,dataset2,0.999769,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\116.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_69.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999492,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\117.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_70.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99953,0,False
+data\raw\dataset2\osteoporosis\normal\118n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_102.jpg,normal,normal,dataset2,dataset2,0.999567,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\119.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_71.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999325,1,False
+data\raw\dataset2\osteoporosis\normal\11nn.png,data\raw\dataset2\osteoporosis\normal\Normal_11.jpg,normal,normal,dataset2,dataset2,0.999091,0,False
+data\raw\dataset2\osteoporosis\normal\12.png,data\raw\dataset2\osteoporosis\normal\Normal_12.jpg,normal,normal,dataset2,dataset2,0.999469,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\12.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_10.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995559,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\120.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_72.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996543,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\121.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_73.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999758,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\122.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_74.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.993366,1,False
+data\raw\dataset2\osteoporosis\normal\123.png,data\raw\dataset2\osteoporosis\normal\Normal_103.jpg,normal,normal,dataset2,dataset2,0.998461,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\124.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_75.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99958,0,False
+data\raw\dataset2\osteoporosis\normal\125.jpg,data\raw\dataset2\osteoporosis\normal\Normal_104.jpg,normal,normal,dataset2,dataset2,0.999404,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\126.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_76.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999825,4,False
+data\raw\dataset2\osteoporosis\osteoporosis\127.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_77.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995863,1,False
+data\raw\dataset2\osteoporosis\normal\128.jpg,data\raw\dataset2\osteoporosis\normal\Normal_105.jpg,normal,normal,dataset2,dataset2,0.995138,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\129.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_78.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999688,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\13.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_11.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998393,1,False
+data\raw\dataset2\osteoporosis\normal\13.png,data\raw\dataset2\osteoporosis\normal\Normal_13.jpg,normal,normal,dataset2,dataset2,0.999457,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\130.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_79.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99632,0,False
+data\raw\dataset2\osteoporosis\normal\131.jpg,data\raw\dataset2\osteoporosis\normal\Normal_106.jpg,normal,normal,dataset2,dataset2,0.994564,1,False
+data\raw\dataset2\osteoporosis\normal\132.png,data\raw\dataset2\osteoporosis\normal\Normal_107.jpg,normal,normal,dataset2,dataset2,0.999595,0,False
+data\raw\dataset2\osteoporosis\normal\133.jpg,data\raw\dataset2\osteoporosis\normal\Normal_108.jpg,normal,normal,dataset2,dataset2,0.999283,1,False
+data\raw\dataset2\osteoporosis\normal\135.jpg,data\raw\dataset2\osteoporosis\normal\Normal_109.jpg,normal,normal,dataset2,dataset2,0.999218,0,False
+data\raw\dataset2\osteoporosis\normal\137.jpg,data\raw\dataset2\osteoporosis\normal\Normal_110.jpg,normal,normal,dataset2,dataset2,0.999424,2,False
+data\raw\dataset2\osteoporosis\normal\138.png,data\raw\dataset2\osteoporosis\normal\Normal_111.jpg,normal,normal,dataset2,dataset2,0.999342,1,False
+data\raw\dataset2\osteoporosis\normal\139.jpg,data\raw\dataset2\osteoporosis\normal\Normal_112.jpg,normal,normal,dataset2,dataset2,0.996519,0,False
+data\raw\dataset2\osteoporosis\normal\14.png,data\raw\dataset2\osteoporosis\normal\Normal_14.jpg,normal,normal,dataset2,dataset2,0.999519,0,False
+data\raw\dataset2\osteoporosis\normal\140.png,data\raw\dataset2\osteoporosis\normal\Normal_113.jpg,normal,normal,dataset2,dataset2,0.999743,0,False
+data\raw\dataset2\osteoporosis\normal\141.jpg,data\raw\dataset2\osteoporosis\normal\Normal_114.jpg,normal,normal,dataset2,dataset2,0.999238,0,False
+data\raw\dataset2\osteoporosis\normal\142n.png,data\raw\dataset2\osteoporosis\normal\Normal_115.jpg,normal,normal,dataset2,dataset2,0.995731,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\144.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_81.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.993077,1,False
+data\raw\dataset2\osteoporosis\normal\146n.png,data\raw\dataset2\osteoporosis\normal\Normal_116.jpg,normal,normal,dataset2,dataset2,0.999286,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\147.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_83.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999682,0,False
+data\raw\dataset2\osteoporosis\normal\148n.png,data\raw\dataset2\osteoporosis\normal\Normal_117.jpg,normal,normal,dataset2,dataset2,0.998901,1,False
+data\raw\dataset2\osteoporosis\normal\14nn.jpg,data\raw\dataset2\osteoporosis\normal\Normal_15.jpg,normal,normal,dataset2,dataset2,0.999366,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\15.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_12.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999339,0,False
+data\raw\dataset2\osteoporosis\normal\150.png,data\raw\dataset2\osteoporosis\normal\Normal_118.jpg,normal,normal,dataset2,dataset2,0.992157,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\152.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_86.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998718,0,False
+data\raw\dataset2\osteoporosis\normal\154.png,data\raw\dataset2\osteoporosis\normal\Normal_119.jpg,normal,normal,dataset2,dataset2,0.995433,2,False
+data\raw\dataset2\osteoporosis\normal\156.png,data\raw\dataset2\osteoporosis\normal\Normal_121.jpg,normal,normal,dataset2,dataset2,0.998646,1,False
+data\raw\dataset2\osteoporosis\normal\158n.png,data\raw\dataset2\osteoporosis\normal\Normal_123.jpg,normal,normal,dataset2,dataset2,0.999049,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\16.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_13.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996284,2,False
+data\raw\dataset2\osteoporosis\normal\16.png,data\raw\dataset2\osteoporosis\normal\Normal_16.jpg,normal,normal,dataset2,dataset2,0.999459,1,False
+data\raw\dataset2\osteoporosis\normal\160n.png,data\raw\dataset2\osteoporosis\normal\Normal_124.jpg,normal,normal,dataset2,dataset2,0.999101,0,False
+data\raw\dataset2\osteoporosis\normal\162n.png,data\raw\dataset2\osteoporosis\normal\Normal_125.jpg,normal,normal,dataset2,dataset2,0.998366,1,False
+data\raw\dataset2\osteoporosis\normal\164n.png,data\raw\dataset2\osteoporosis\normal\Normal_126.jpg,normal,normal,dataset2,dataset2,0.996793,0,False
+data\raw\dataset2\osteoporosis\normal\166n.png,data\raw\dataset2\osteoporosis\normal\Normal_127.jpg,normal,normal,dataset2,dataset2,0.998345,1,False
+data\raw\dataset2\osteoporosis\normal\168n.png,data\raw\dataset2\osteoporosis\normal\Normal_128.jpg,normal,normal,dataset2,dataset2,0.997702,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\169.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_92.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997102,1,False
+data\raw\dataset2\osteoporosis\normal\17.png,data\raw\dataset2\osteoporosis\normal\Normal_17.jpg,normal,normal,dataset2,dataset2,0.995349,0,False
+data\raw\dataset2\osteoporosis\normal\170n.png,data\raw\dataset2\osteoporosis\normal\Normal_129.jpg,normal,normal,dataset2,dataset2,0.998975,0,False
+data\raw\dataset2\osteoporosis\normal\172n.png,data\raw\dataset2\osteoporosis\normal\Normal_130.jpg,normal,normal,dataset2,dataset2,0.999471,0,False
+data\raw\dataset2\osteoporosis\normal\174n.png,data\raw\dataset2\osteoporosis\normal\Normal_131.jpg,normal,normal,dataset2,dataset2,0.999692,0,False
+data\raw\dataset2\osteoporosis\normal\176n.png,data\raw\dataset2\osteoporosis\normal\Normal_132.jpg,normal,normal,dataset2,dataset2,0.999522,0,False
+data\raw\dataset2\osteoporosis\normal\178n.png,data\raw\dataset2\osteoporosis\normal\Normal_133.jpg,normal,normal,dataset2,dataset2,0.997892,0,False
+data\raw\dataset2\osteoporosis\normal\17nn.jpg,data\raw\dataset2\osteoporosis\normal\Normal_18.jpg,normal,normal,dataset2,dataset2,0.999203,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\18.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_14.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997676,1,False
+data\raw\dataset2\osteoporosis\normal\180n.png,data\raw\dataset2\osteoporosis\normal\Normal_134.jpg,normal,normal,dataset2,dataset2,0.997437,1,False
+data\raw\dataset2\osteoporosis\normal\182n.png,data\raw\dataset2\osteoporosis\normal\Normal_135.jpg,normal,normal,dataset2,dataset2,0.997034,1,False
+data\raw\dataset2\osteoporosis\normal\184n.png,data\raw\dataset2\osteoporosis\normal\Normal_136.jpg,normal,normal,dataset2,dataset2,0.998247,1,False
+data\raw\dataset2\osteoporosis\normal\186n.png,data\raw\dataset2\osteoporosis\normal\Normal_137.jpg,normal,normal,dataset2,dataset2,0.998095,0,False
+data\raw\dataset2\osteoporosis\normal\188n.png,data\raw\dataset2\osteoporosis\normal\Normal_139.jpg,normal,normal,dataset2,dataset2,0.995208,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\19.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_15.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995658,1,False
+data\raw\dataset2\osteoporosis\normal\190n.png,data\raw\dataset2\osteoporosis\normal\Normal_140.jpg,normal,normal,dataset2,dataset2,0.998228,0,False
+data\raw\dataset2\osteoporosis\normal\192n.png,data\raw\dataset2\osteoporosis\normal\Normal_141.jpg,normal,normal,dataset2,dataset2,0.997858,1,False
+data\raw\dataset2\osteoporosis\normal\194n.png,data\raw\dataset2\osteoporosis\normal\Normal_142.jpg,normal,normal,dataset2,dataset2,0.998764,3,False
+data\raw\dataset2\osteoporosis\normal\196.png,data\raw\dataset2\osteoporosis\normal\Normal_143.jpg,normal,normal,dataset2,dataset2,0.999427,0,False
+data\raw\dataset2\osteoporosis\normal\198n.png,data\raw\dataset2\osteoporosis\normal\Normal_144.jpg,normal,normal,dataset2,dataset2,0.997885,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\199.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_106.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996921,0,False
+data\raw\dataset2\osteoporosis\normal\2.jpg,data\raw\dataset2\osteoporosis\normal\Normal.jpg,normal,normal,dataset2,dataset2,0.999316,1,False
+data\raw\dataset2\osteoporosis\normal\20.png,data\raw\dataset2\osteoporosis\normal\Normal_19.jpg,normal,normal,dataset2,dataset2,0.999405,0,False
+data\raw\dataset2\osteoporosis\normal\200n.png,data\raw\dataset2\osteoporosis\normal\Normal_145.jpg,normal,normal,dataset2,dataset2,0.999341,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\201.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_107.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999674,3,False
+data\raw\dataset2\osteoporosis\normal\202n.png,data\raw\dataset2\osteoporosis\normal\Normal_146.jpg,normal,normal,dataset2,dataset2,0.998612,4,False
+data\raw\dataset2\osteoporosis\normal\204n.png,data\raw\dataset2\osteoporosis\normal\Normal_147.jpg,normal,normal,dataset2,dataset2,0.999353,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\206.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_109.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995764,4,False
+data\raw\dataset2\osteoporosis\osteoporosis\208.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_111.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999196,2,False
+data\raw\dataset2\osteoporosis\normal\20nn.jpg,data\raw\dataset2\osteoporosis\normal\Normal_20.jpg,normal,normal,dataset2,dataset2,0.99923,0,False
+data\raw\dataset2\osteoporosis\normal\21.png,data\raw\dataset2\osteoporosis\normal\Normal_21.jpg,normal,normal,dataset2,dataset2,0.996501,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\21.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_17.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998799,0,False
+data\raw\dataset2\osteoporosis\normal\210.png,data\raw\dataset2\osteoporosis\normal\Normal_149.jpg,normal,normal,dataset2,dataset2,0.999303,2,False
+data\raw\dataset2\osteoporosis\normal\212.png,data\raw\dataset2\osteoporosis\normal\Normal_150.jpg,normal,normal,dataset2,dataset2,0.994355,1,False
+data\raw\dataset2\osteoporosis\normal\214n.png,data\raw\dataset2\osteoporosis\normal\Normal_151.jpg,normal,normal,dataset2,dataset2,0.998077,0,False
+data\raw\dataset2\osteoporosis\normal\216n.png,data\raw\dataset2\osteoporosis\normal\Normal_152.jpg,normal,normal,dataset2,dataset2,0.997506,2,False
+data\raw\dataset2\osteoporosis\normal\218n.png,data\raw\dataset2\osteoporosis\normal\Normal_153.jpg,normal,normal,dataset2,dataset2,0.999327,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\22.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_18.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996417,1,False
+data\raw\dataset2\osteoporosis\normal\220n.png,data\raw\dataset2\osteoporosis\normal\Normal_154.jpg,normal,normal,dataset2,dataset2,0.998603,1,False
+data\raw\dataset2\osteoporosis\normal\222n.png,data\raw\dataset2\osteoporosis\normal\Normal_155.jpg,normal,normal,dataset2,dataset2,0.998655,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\224.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_120.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99979,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\226.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_121.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998955,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\228.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_123.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999269,1,False
+data\raw\dataset2\osteoporosis\normal\230n.png,data\raw\dataset2\osteoporosis\normal\Normal_157.jpg,normal,normal,dataset2,dataset2,0.999682,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\232.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_126.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999151,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\239.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_130.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999623,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\239.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_67.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.994983,1,False
+data\raw\dataset2\osteoporosis\normal\24.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_25.jpg,normal,normal,dataset2,dataset2,0.996145,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\24.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_19.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996152,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\249.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_140.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998644,1,False
+data\raw\dataset2\osteoporosis\normal\25.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_26.jpg,normal,normal,dataset2,dataset2,0.995228,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\250.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_141.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998733,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\251.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_142.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999598,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\252.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_143.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999284,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\253.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_144.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998585,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\254.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_145.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998292,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\255.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_146.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995353,5,False
+data\raw\dataset2\osteoporosis\normal\256n.png,data\raw\dataset2\osteoporosis\normal\Normal_161.jpg,normal,normal,dataset2,dataset2,0.99949,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\257.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_147.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999482,0,False
+data\raw\dataset2\osteoporosis\normal\258n.png,data\raw\dataset2\osteoporosis\normal\Normal_162.jpg,normal,normal,dataset2,dataset2,0.999194,0,False
+data\raw\dataset2\osteoporosis\normal\259n.png,data\raw\dataset2\osteoporosis\normal\Normal_163.jpg,normal,normal,dataset2,dataset2,0.999396,0,False
+data\raw\dataset2\osteoporosis\normal\25n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_27.jpg,normal,normal,dataset2,dataset2,0.999528,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\26.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_29.jpg,osteoporosis,normal,dataset2,dataset2,0.995205,1,True
+data\raw\dataset2\osteoporosis\normal\26.jpg,data\raw\dataset2\osteoporosis\normal\Normal_171.jpg,normal,normal,dataset2,dataset2,0.990031,5,False
+data\raw\dataset2\osteoporosis\normal\26.jpg,data\raw\dataset2\osteoporosis\normal\Normal_28.jpg,normal,normal,dataset2,dataset2,0.999238,0,False
+data\raw\dataset2\osteoporosis\normal\260n.png,data\raw\dataset2\osteoporosis\normal\Normal_164.jpg,normal,normal,dataset2,dataset2,0.998988,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\261.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_148.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999169,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\262.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_149.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999691,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\263.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_150.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998864,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\264.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_151.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999599,1,False
+data\raw\dataset2\osteoporosis\normal\265n.png,data\raw\dataset2\osteoporosis\normal\Normal_165.jpg,normal,normal,dataset2,dataset2,0.999563,0,False
+data\raw\dataset2\osteoporosis\normal\266.png,data\raw\dataset2\osteoporosis\normal\Normal_166.jpg,normal,normal,dataset2,dataset2,0.999529,0,False
+data\raw\dataset2\osteoporosis\normal\267n.png,data\raw\dataset2\osteoporosis\normal\Normal_167.jpg,normal,normal,dataset2,dataset2,0.999533,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\268.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_152.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999383,1,False
+data\raw\dataset2\osteoporosis\normal\27.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_30.jpg,normal,normal,dataset2,dataset2,0.998204,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\27.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_21.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999515,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\270.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_153.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999711,0,False
+data\raw\dataset2\osteoporosis\normal\271n.png,data\raw\dataset2\osteoporosis\normal\Normal_168.jpg,normal,normal,dataset2,dataset2,0.999476,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\272.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_154.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999169,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\273.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_155.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999744,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\274.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_156.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999519,1,False
+data\raw\dataset2\osteoporosis\normal\275n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_169.jpg,normal,normal,dataset2,dataset2,0.999613,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\276.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_157.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999523,0,False
+data\raw\dataset2\osteoporosis\normal\278n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_170.jpg,normal,normal,dataset2,dataset2,0.998862,2,False
+data\raw\dataset2\osteoporosis\normal\28.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_31.jpg,normal,normal,dataset2,dataset2,0.999573,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\280.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_158.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99811,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\281.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_159.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999662,4,False
+data\raw\dataset2\osteoporosis\normal\283.jpg,data\raw\dataset2\osteoporosis\normal\Normal_171.jpg,normal,normal,dataset2,dataset2,0.999176,1,False
+data\raw\dataset2\osteoporosis\normal\284n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_172.jpg,normal,normal,dataset2,dataset2,0.9995,0,False
+data\raw\dataset2\osteoporosis\normal\285n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_173.jpg,normal,normal,dataset2,dataset2,0.999411,0,False
+data\raw\dataset2\osteoporosis\normal\286n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_174.jpg,normal,normal,dataset2,dataset2,0.999392,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\287.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_160.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999226,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\288.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_161.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999713,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\289.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_162.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999663,0,False
+data\raw\dataset2\osteoporosis\normal\28n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_32.jpg,normal,normal,dataset2,dataset2,0.99978,3,False
+data\raw\dataset2\osteoporosis\normal\29.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_33.jpg,normal,normal,dataset2,dataset2,0.99643,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\290.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_163.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999314,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\291.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_164.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996714,0,False
+data\raw\dataset2\osteoporosis\normal\292n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_175.jpg,normal,normal,dataset2,dataset2,0.997684,2,False
+data\raw\dataset2\osteoporosis\normal\293n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_176.jpg,normal,normal,dataset2,dataset2,0.999501,1,False
+data\raw\dataset2\osteoporosis\normal\294n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_177.jpg,normal,normal,dataset2,dataset2,0.999407,0,False
+data\raw\dataset2\osteoporosis\normal\295.jpg,data\raw\dataset2\osteoporosis\normal\Normal_178.jpg,normal,normal,dataset2,dataset2,0.999074,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\296.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_165.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999628,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\298.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_167.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999692,0,False
+data\raw\dataset2\osteoporosis\normal\29nn.jpg,data\raw\dataset2\osteoporosis\normal\Normal_34.jpg,normal,normal,dataset2,dataset2,0.999263,0,False
+data\raw\dataset2\osteoporosis\normal\3.png,data\raw\dataset2\osteoporosis\normal\Normal_2.jpg,normal,normal,dataset2,dataset2,0.997108,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\3.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_2.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997851,2,False
+data\raw\dataset2\osteoporosis\normal\30.png,data\raw\dataset2\osteoporosis\normal\Normal_35.jpg,normal,normal,dataset2,dataset2,0.996463,1,False
+data\raw\dataset2\osteoporosis\normal\303n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_181.jpg,normal,normal,dataset2,dataset2,0.999518,0,False
+data\raw\dataset2\osteoporosis\normal\30nn.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_36.jpg,normal,normal,dataset2,dataset2,0.999555,1,False
+data\raw\dataset2\osteoporosis\normal\31.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_37.jpg,normal,normal,dataset2,dataset2,0.998366,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\31.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_23.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999547,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\312.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_176.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999617,0,False
+data\raw\dataset2\osteoporosis\normal\32.jpg,data\raw\dataset2\osteoporosis\normal\Normal_38.jpg,normal,normal,dataset2,dataset2,0.9993,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\320.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_183.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99957,0,False
+data\raw\dataset2\osteoporosis\normal\32nn.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_39.jpg,normal,normal,dataset2,dataset2,0.997166,1,False
+data\raw\dataset2\osteoporosis\normal\33.png,data\raw\dataset2\osteoporosis\normal\Normal_40.jpg,normal,normal,dataset2,dataset2,0.999132,1,False
+data\raw\dataset2\osteoporosis\normal\33nn.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_41.jpg,normal,normal,dataset2,dataset2,0.998349,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\34.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_24.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997819,2,False
+data\raw\dataset2\osteoporosis\normal\34.jpg,data\raw\dataset2\osteoporosis\normal\Normal_42.jpg,normal,normal,dataset2,dataset2,0.996881,0,False
+data\raw\dataset2\osteoporosis\normal\35.jpg,data\raw\dataset2\osteoporosis\normal\Normal_43.jpg,normal,normal,dataset2,dataset2,0.999372,0,False
+data\raw\dataset2\osteoporosis\normal\35n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_44.jpg,normal,normal,dataset2,dataset2,0.999456,1,False
+data\raw\dataset2\osteoporosis\normal\36.jpg,data\raw\dataset2\osteoporosis\normal\Normal_45.jpg,normal,normal,dataset2,dataset2,0.995963,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\36.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_25.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999156,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\37.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_26.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999485,0,False
+data\raw\dataset2\osteoporosis\normal\37.jpg,data\raw\dataset2\osteoporosis\normal\42.jpg,normal,normal,dataset2,dataset2,0.996217,2,False
+data\raw\dataset2\osteoporosis\normal\37.jpg,data\raw\dataset2\osteoporosis\normal\Normal_47.jpg,normal,normal,dataset2,dataset2,0.997295,1,False
+data\raw\dataset2\osteoporosis\normal\38.jpg,data\raw\dataset2\osteoporosis\normal\Normal_48.jpg,normal,normal,dataset2,dataset2,0.997396,3,False
+data\raw\dataset2\osteoporosis\normal\38n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_49.jpg,normal,normal,dataset2,dataset2,0.999324,0,False
+data\raw\dataset2\osteoporosis\normal\39n.png,data\raw\dataset2\osteoporosis\normal\Normal_51.jpg,normal,normal,dataset2,dataset2,0.999221,0,False
+data\raw\dataset2\osteoporosis\normal\4.png,data\raw\dataset2\osteoporosis\normal\Normal_3.jpg,normal,normal,dataset2,dataset2,0.996519,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\40.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_27.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999706,0,False
+data\raw\dataset2\osteoporosis\normal\40.jpg,data\raw\dataset2\osteoporosis\normal\Normal_52.jpg,normal,normal,dataset2,dataset2,0.992169,5,False
+data\raw\dataset2\osteoporosis\normal\41.jpg,data\raw\dataset2\osteoporosis\normal\Normal_53.jpg,normal,normal,dataset2,dataset2,0.999375,0,False
+data\raw\dataset2\osteoporosis\normal\42.jpg,data\raw\dataset2\osteoporosis\normal\Normal_47.jpg,normal,normal,dataset2,dataset2,0.999146,1,False
+data\raw\dataset2\osteoporosis\normal\42.jpg,data\raw\dataset2\osteoporosis\normal\Normal_55.jpg,normal,normal,dataset2,dataset2,0.995711,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\42.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_28.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998472,1,False
+data\raw\dataset2\osteoporosis\normal\44.jpg,data\raw\dataset2\osteoporosis\normal\Normal_57.jpg,normal,normal,dataset2,dataset2,0.996404,0,False
+data\raw\dataset2\osteoporosis\normal\44n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_58.jpg,normal,normal,dataset2,dataset2,0.999121,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\45.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_29.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999111,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\46.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_31.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999774,1,False
+data\raw\dataset2\osteoporosis\normal\47n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_62.jpg,normal,normal,dataset2,dataset2,0.998325,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\49.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_32.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999569,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\4o.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_4.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.996659,1,False
+data\raw\dataset2\osteoporosis\normal\5.png,data\raw\dataset2\osteoporosis\normal\Normal_4.jpg,normal,normal,dataset2,dataset2,0.999753,0,False
+data\raw\dataset2\osteoporosis\normal\50n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_66.jpg,normal,normal,dataset2,dataset2,0.999195,0,False
+data\raw\dataset2\osteoporosis\normal\51.jpg,data\raw\dataset2\osteoporosis\normal\Normal_67.jpg,normal,normal,dataset2,dataset2,0.999596,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\51.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_33.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998552,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\52.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_34.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999515,0,False
+data\raw\dataset2\osteoporosis\normal\53n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_70.jpg,normal,normal,dataset2,dataset2,0.999146,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\54.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_35.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998727,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\55.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\58.JPEG,osteoporosis,osteoporosis,dataset2,dataset2,0.991029,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\55.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_36.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998163,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\55.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_37.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.990723,2,False
+data\raw\dataset2\osteoporosis\normal\56n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_74.jpg,normal,normal,dataset2,dataset2,0.995499,1,False
+data\raw\dataset2\osteoporosis\normal\57n.png,data\raw\dataset2\osteoporosis\normal\Normal_76.jpg,normal,normal,dataset2,dataset2,0.999308,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\58.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_37.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999557,0,False
+data\raw\dataset2\osteoporosis\normal\59.jpg,data\raw\dataset2\osteoporosis\normal\Normal_77.jpg,normal,normal,dataset2,dataset2,0.999377,1,False
+data\raw\dataset2\osteoporosis\normal\6.png,data\raw\dataset2\osteoporosis\normal\Normal_5.jpg,normal,normal,dataset2,dataset2,0.998046,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\6.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_5.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99632,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\60.png,data\raw\dataset2\osteoporosis\osteoporosis\63.png,osteoporosis,osteoporosis,dataset2,dataset2,0.999861,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\60.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_38.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999355,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\60.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_40.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999198,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\61.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\76.JPEG,osteoporosis,osteoporosis,dataset2,dataset2,0.993782,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\61.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_39.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995707,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\61.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_45.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997246,1,False
+data\raw\dataset2\osteoporosis\normal\62.jpg,data\raw\dataset2\osteoporosis\normal\Normal_78.jpg,normal,normal,dataset2,dataset2,0.999346,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\63.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_38.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999263,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\63.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_40.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999354,2,False
+data\raw\dataset2\osteoporosis\normal\64n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_79.jpg,normal,normal,dataset2,dataset2,0.998407,3,False
+data\raw\dataset2\osteoporosis\normal\65.jpg,data\raw\dataset2\osteoporosis\normal\Normal_80.jpg,normal,normal,dataset2,dataset2,0.999409,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\66.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_41.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999296,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\67.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_42.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999592,0,False
+data\raw\dataset2\osteoporosis\normal\68.jpg,data\raw\dataset2\osteoporosis\normal\Normal_81.jpg,normal,normal,dataset2,dataset2,0.999636,0,False
+data\raw\dataset2\osteoporosis\normal\69.png,data\raw\dataset2\osteoporosis\normal\Normal_82.jpg,normal,normal,dataset2,dataset2,0.999252,1,False
+data\raw\dataset2\osteoporosis\normal\7.jpg,data\raw\dataset2\osteoporosis\normal\Normal_6.jpg,normal,normal,dataset2,dataset2,0.998967,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\7.png,data\raw\dataset2\osteoporosis\normal\Normal_7.jpg,osteoporosis,normal,dataset2,dataset2,0.998212,1,True
+data\raw\dataset2\osteoporosis\normal\70n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_83.jpg,normal,normal,dataset2,dataset2,0.998526,0,False
+data\raw\dataset2\osteoporosis\normal\71.jpg,data\raw\dataset2\osteoporosis\normal\Normal_84.jpg,normal,normal,dataset2,dataset2,0.999306,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\72.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_43.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998784,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\73.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_44.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999668,0,False
+data\raw\dataset2\osteoporosis\normal\74.jpg,data\raw\dataset2\osteoporosis\normal\Normal_85.jpg,normal,normal,dataset2,dataset2,0.999258,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\76.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_45.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998349,0,False
+data\raw\dataset2\osteoporosis\normal\77.jpg,data\raw\dataset2\osteoporosis\normal\Normal_86.jpg,normal,normal,dataset2,dataset2,0.999249,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\78.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_46.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998618,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\79.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.993909,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\79.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_47.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999544,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\8.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_7.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998059,1,False
+data\raw\dataset2\osteoporosis\normal\80.jpg,data\raw\dataset2\osteoporosis\normal\Normal_87.jpg,normal,normal,dataset2,dataset2,0.99911,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\81.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_48.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.99904,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\82.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_49.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999704,0,False
+data\raw\dataset2\osteoporosis\normal\83.jpg,data\raw\dataset2\osteoporosis\normal\Normal_88.jpg,normal,normal,dataset2,dataset2,0.999469,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\84.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_50.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999204,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\85.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_51.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999697,0,False
+data\raw\dataset2\osteoporosis\normal\86.jpg,data\raw\dataset2\osteoporosis\normal\Normal_89.jpg,normal,normal,dataset2,dataset2,0.999434,0,False
+data\raw\dataset2\osteoporosis\normal\87.png,data\raw\dataset2\osteoporosis\normal\Normal_90.jpg,normal,normal,dataset2,dataset2,0.999155,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\88.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_52.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999607,0,False
+data\raw\dataset2\osteoporosis\normal\89.jpg,data\raw\dataset2\osteoporosis\normal\Normal_91.jpg,normal,normal,dataset2,dataset2,0.999473,1,False
+data\raw\dataset2\osteoporosis\normal\9.png,data\raw\dataset2\osteoporosis\normal\Normal_8.jpg,normal,normal,dataset2,dataset2,0.997169,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\9.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_8.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997591,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\90.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_53.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.998858,0,False
+data\raw\dataset2\osteoporosis\normal\91n.JPEG,data\raw\dataset2\osteoporosis\normal\Normal_92.jpg,normal,normal,dataset2,dataset2,0.999777,1,False
+data\raw\dataset2\osteoporosis\normal\92.jpg,data\raw\dataset2\osteoporosis\normal\Normal_93.jpg,normal,normal,dataset2,dataset2,0.99457,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\93.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_54.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.997764,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\94.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_55.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999393,1,False
+data\raw\dataset2\osteoporosis\normal\95.jpg,data\raw\dataset2\osteoporosis\normal\Normal_94.jpg,normal,normal,dataset2,dataset2,0.995391,0,False
+data\raw\dataset2\osteoporosis\normal\96.png,data\raw\dataset2\osteoporosis\normal\Normal_95.jpg,normal,normal,dataset2,dataset2,0.999788,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\97.JPEG,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_56.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999705,3,False
+data\raw\dataset2\osteoporosis\normal\98n.jpg,data\raw\dataset2\osteoporosis\normal\Normal_96.jpg,normal,normal,dataset2,dataset2,0.995108,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\99.png,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_57.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999462,0,False
+data\raw\dataset2\osteoporosis\normal\Normal_171.jpg,data\raw\dataset2\osteoporosis\normal\Normal_28.jpg,normal,normal,dataset2,dataset2,0.99013,5,False
+data\raw\dataset2\osteoporosis\normal\Normal_185.jpg,data\raw\dataset2\osteoporosis\normal\n5.jpg,normal,normal,dataset2,dataset2,0.999265,0,False
+data\raw\dataset2\osteoporosis\normal\Normal_47.jpg,data\raw\dataset2\osteoporosis\normal\Normal_55.jpg,normal,normal,dataset2,dataset2,0.994192,3,False
+data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_47.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.994595,1,False
+data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_130.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_67.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.995654,2,False
+data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_38.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_40.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.999861,0,False
+data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_39.jpg,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_45.jpg,osteoporosis,osteoporosis,dataset2,dataset2,0.990014,1,False

@@ -1,0 +1,182 @@
+{
+  "n_folds": 5,
+  "fold_seed": 20250820,
+  "splitter": "sklearn.model_selection.StratifiedGroupKFold",
+  "validation_carved_with": "StratifiedShuffleSplit over groups",
+  "validation_fraction_of_trainval": 0.1765,
+  "task": "binary: normal (0) vs osteoporosis (1)",
+  "total_images": 634,
+  "total_groups": 364,
+  "group_kind_counts": {
+    "near_duplicate_cluster": 561,
+    "patient_id": 73
+  },
+  "class_counts": {
+    "normal": 341,
+    "osteoporosis": 293
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "n_train": 414,
+      "n_validation": 94,
+      "n_test": 126,
+      "train_class_counts": {
+        "normal": 217,
+        "osteoporosis": 197
+      },
+      "validation_class_counts": {
+        "normal": 47,
+        "osteoporosis": 47
+      },
+      "test_class_counts": {
+        "normal": 77,
+        "osteoporosis": 49
+      },
+      "train_positive_rate": 0.4758,
+      "validation_positive_rate": 0.5,
+      "test_positive_rate": 0.3889,
+      "n_groups_train": 240,
+      "n_groups_validation": 52,
+      "n_groups_test": 72
+    },
+    {
+      "fold": 2,
+      "n_train": 420,
+      "n_validation": 89,
+      "n_test": 125,
+      "train_class_counts": {
+        "normal": 228,
+        "osteoporosis": 192
+      },
+      "validation_class_counts": {
+        "normal": 46,
+        "osteoporosis": 43
+      },
+      "test_class_counts": {
+        "normal": 67,
+        "osteoporosis": 58
+      },
+      "train_positive_rate": 0.4571,
+      "validation_positive_rate": 0.4831,
+      "test_positive_rate": 0.464,
+      "n_groups_train": 239,
+      "n_groups_validation": 52,
+      "n_groups_test": 73
+    },
+    {
+      "fold": 3,
+      "n_train": 415,
+      "n_validation": 89,
+      "n_test": 130,
+      "train_class_counts": {
+        "normal": 225,
+        "osteoporosis": 190
+      },
+      "validation_class_counts": {
+        "normal": 49,
+        "osteoporosis": 40
+      },
+      "test_class_counts": {
+        "normal": 67,
+        "osteoporosis": 63
+      },
+      "train_positive_rate": 0.4578,
+      "validation_positive_rate": 0.4494,
+      "test_positive_rate": 0.4846,
+      "n_groups_train": 239,
+      "n_groups_validation": 52,
+      "n_groups_test": 73
+    },
+    {
+      "fold": 4,
+      "n_train": 415,
+      "n_validation": 90,
+      "n_test": 129,
+      "train_class_counts": {
+        "normal": 226,
+        "osteoporosis": 189
+      },
+      "validation_class_counts": {
+        "normal": 49,
+        "osteoporosis": 41
+      },
+      "test_class_counts": {
+        "normal": 66,
+        "osteoporosis": 63
+      },
+      "train_positive_rate": 0.4554,
+      "validation_positive_rate": 0.4556,
+      "test_positive_rate": 0.4884,
+      "n_groups_train": 238,
+      "n_groups_validation": 52,
+      "n_groups_test": 74
+    },
+    {
+      "fold": 5,
+      "n_train": 417,
+      "n_validation": 93,
+      "n_test": 124,
+      "train_class_counts": {
+        "normal": 229,
+        "osteoporosis": 188
+      },
+      "validation_class_counts": {
+        "normal": 48,
+        "osteoporosis": 45
+      },
+      "test_class_counts": {
+        "normal": 64,
+        "osteoporosis": 60
+      },
+      "train_positive_rate": 0.4508,
+      "validation_positive_rate": 0.4839,
+      "test_positive_rate": 0.4839,
+      "n_groups_train": 240,
+      "n_groups_validation": 52,
+      "n_groups_test": 72
+    }
+  ],
+  "leakage_checks": [
+    {
+      "fold": 1,
+      "group_overlap": 0,
+      "pixel_hash_overlap": 0,
+      "path_overlap": 0,
+      "verified": true
+    },
+    {
+      "fold": 2,
+      "group_overlap": 0,
+      "pixel_hash_overlap": 0,
+      "path_overlap": 0,
+      "verified": true
+    },
+    {
+      "fold": 3,
+      "group_overlap": 0,
+      "pixel_hash_overlap": 0,
+      "path_overlap": 0,
+      "verified": true
+    },
+    {
+      "fold": 4,
+      "group_overlap": 0,
+      "pixel_hash_overlap": 0,
+      "path_overlap": 0,
+      "verified": true
+    },
+    {
+      "fold": 5,
+      "group_overlap": 0,
+      "pixel_hash_overlap": 0,
+      "path_overlap": 0,
+      "verified": true
+    }
+  ],
+  "out_of_fold_coverage_verified": true,
+  "patient_level_separation": {
+    "achieved_for": "dataset1 only (real patient identifiers present)",
+    "fallback_for_other_datasets": "near-duplicate image clusters are treated as groups; this prevents duplicate/near-duplicate leakage but is NOT the same as verified patient-level separation"
+  }
+}

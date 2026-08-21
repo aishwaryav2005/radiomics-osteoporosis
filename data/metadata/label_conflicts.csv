@@ -1,0 +1,391 @@
+near_dup_group,relpath,classes_present,resolution,resolved_class,t_scores
+0,data\raw\dataset1\Osteoporosis Knee X-ray\normal\N1.JPEG,normal/osteopenia,excluded,,
+0,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP13.JPEG,normal/osteopenia,excluded,,
+6,data\raw\dataset1\Osteoporosis Knee X-ray\normal\N15.jpg,normal/osteopenia,excluded,,
+6,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP73.jpg,normal/osteopenia,excluded,,
+15,data\raw\dataset1\Osteoporosis Knee X-ray\normal\N23.jpg,normal/osteopenia,excluded,,
+15,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP107.jpg,normal/osteopenia,excluded,,
+16,data\raw\dataset1\Osteoporosis Knee X-ray\normal\N24.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset2\osteoporosis\normal\45.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset2\osteoporosis\osteoporosis\45o.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset2\osteoporosis\normal\Normal_59.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_30.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_59.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_30.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset4\normal\normal\45.jpg,normal/osteoporosis,t_score,normal,-0.78
+16,data\raw\dataset4\osteoporosis\osteoporosis\45o.jpg,normal/osteoporosis,t_score,normal,-0.78
+38,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP100.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP112.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset2\osteoporosis\normal\155n.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset2\osteoporosis\osteoporosis\179.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset2\osteoporosis\normal\Normal_120.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_97.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_120.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_97.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset4\normal\normal\155n.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+38,data\raw\dataset4\osteoporosis\osteoporosis\179.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-2.32;-1.78
+39,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP101.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP135.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset2\osteoporosis\normal\157n.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset2\osteoporosis\normal\225.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset2\osteoporosis\normal\Normal_122.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset2\osteoporosis\normal\Normal_156.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_122.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_156.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset4\normal\normal\157n.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+39,data\raw\dataset4\normal\normal\225.jpg,normal/osteopenia,t_score,osteopenia,-2.29;-2.15
+40,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP102.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS40.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset2\osteoporosis\osteoporosis\314.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset2\osteoporosis\normal\Normal_186.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_177.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset2\osteoporosis\normal\n19.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_186.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_177.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset4\osteoporosis\osteoporosis\314.jpg,normal/osteopenia/osteoporosis,excluded,,
+40,data\raw\dataset4\normal\normal\n19.jpg,normal/osteopenia/osteoporosis,excluded,,
+41,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP103.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP139.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset2\osteoporosis\osteoporosis\161.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset2\osteoporosis\normal\233n.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset2\osteoporosis\normal\Normal_158.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_88.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_158.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_88.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset4\osteoporosis\osteoporosis\161.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+41,data\raw\dataset4\normal\normal\233n.jpg,normal/osteopenia/osteoporosis,t_score,osteopenia,-1.78;-2.01
+42,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP104.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+42,data\raw\dataset2\osteoporosis\osteoporosis\163.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+42,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_89.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+42,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_89.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+42,data\raw\dataset4\osteoporosis\osteoporosis\163.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+43,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP105.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP99.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset2\osteoporosis\osteoporosis\153.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset2\osteoporosis\osteoporosis\165.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_87.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_90.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_87.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_90.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset4\osteoporosis\osteoporosis\153.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+43,data\raw\dataset4\osteoporosis\osteoporosis\165.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.28;-1.61
+44,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP106.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+44,data\raw\dataset2\osteoporosis\osteoporosis\167.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+44,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_91.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+44,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_91.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+44,data\raw\dataset4\osteoporosis\osteoporosis\167.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+46,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP108.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP131.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset2\osteoporosis\osteoporosis\171.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset2\osteoporosis\osteoporosis\217.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_116.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_93.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_116.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_93.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset4\osteoporosis\osteoporosis\171.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+46,data\raw\dataset4\osteoporosis\osteoporosis\217.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87;-1.99
+47,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP109.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.13
+47,data\raw\dataset2\osteoporosis\osteoporosis\173.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.13
+47,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_94.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.13
+47,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_94.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.13
+47,data\raw\dataset4\osteoporosis\osteoporosis\173.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.13
+49,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP110.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.43
+49,data\raw\dataset2\osteoporosis\osteoporosis\175.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.43
+49,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_95.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.43
+49,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_95.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.43
+49,data\raw\dataset4\osteoporosis\osteoporosis\175.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.43
+50,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP111.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+50,data\raw\dataset2\osteoporosis\osteoporosis\177.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+50,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_96.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+50,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_96.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+50,data\raw\dataset4\osteoporosis\osteoporosis\177.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+52,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP113.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.86
+52,data\raw\dataset2\osteoporosis\osteoporosis\181.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.86
+52,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_98.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.86
+52,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_98.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.86
+52,data\raw\dataset4\osteoporosis\osteoporosis\181.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.86
+53,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP114.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.12
+53,data\raw\dataset2\osteoporosis\osteoporosis\183.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.12
+53,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_99.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.12
+53,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_99.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.12
+53,data\raw\dataset4\osteoporosis\osteoporosis\183.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.12
+54,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP115.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+54,data\raw\dataset2\osteoporosis\osteoporosis\185.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+54,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_100.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+54,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_100.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+54,data\raw\dataset4\osteoporosis\osteoporosis\185.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+55,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP116.jpg,normal/osteopenia,t_score,osteopenia,-2.37
+55,data\raw\dataset2\osteoporosis\normal\187n.jpg,normal/osteopenia,t_score,osteopenia,-2.37
+55,data\raw\dataset2\osteoporosis\normal\Normal_138.jpg,normal/osteopenia,t_score,osteopenia,-2.37
+55,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_138.jpg,normal/osteopenia,t_score,osteopenia,-2.37
+55,data\raw\dataset4\normal\normal\187n.jpg,normal/osteopenia,t_score,osteopenia,-2.37
+56,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP117.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+56,data\raw\dataset2\osteoporosis\osteoporosis\189.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+56,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_101.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+56,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_101.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+56,data\raw\dataset4\osteoporosis\osteoporosis\189.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+57,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP118.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+57,data\raw\dataset2\osteoporosis\osteoporosis\191.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+57,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_102.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+57,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_102.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+57,data\raw\dataset4\osteoporosis\osteoporosis\191.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+58,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP119.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+58,data\raw\dataset2\osteoporosis\osteoporosis\193.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+58,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_103.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+58,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_103.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+58,data\raw\dataset4\osteoporosis\osteoporosis\193.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+60,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP120.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.98
+60,data\raw\dataset2\osteoporosis\osteoporosis\195.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.98
+60,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_104.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.98
+60,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_104.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.98
+60,data\raw\dataset4\osteoporosis\osteoporosis\195.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.98
+61,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP121.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+61,data\raw\dataset2\osteoporosis\osteoporosis\197.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+61,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_105.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+61,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_105.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+61,data\raw\dataset4\osteoporosis\osteoporosis\197.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.52
+64,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP124.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87
+64,data\raw\dataset2\osteoporosis\osteoporosis\203.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87
+64,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_108.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87
+64,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_108.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87
+64,data\raw\dataset4\osteoporosis\osteoporosis\203.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.87
+65,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP125.jpg,normal/osteopenia,t_score,osteopenia,-1.08
+65,data\raw\dataset2\osteoporosis\normal\205n.jpg,normal/osteopenia,t_score,osteopenia,-1.08
+65,data\raw\dataset2\osteoporosis\normal\Normal_148.jpg,normal/osteopenia,t_score,osteopenia,-1.08
+65,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_148.jpg,normal/osteopenia,t_score,osteopenia,-1.08
+65,data\raw\dataset4\normal\normal\205n.jpg,normal/osteopenia,t_score,osteopenia,-1.08
+66,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP126.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+66,data\raw\dataset2\osteoporosis\osteoporosis\207.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+66,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_110.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+66,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_110.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+66,data\raw\dataset4\osteoporosis\osteoporosis\207.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+67,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP127.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+67,data\raw\dataset2\osteoporosis\osteoporosis\209.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+67,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_112.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+67,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_112.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+67,data\raw\dataset4\osteoporosis\osteoporosis\209.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+68,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP128.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.78
+68,data\raw\dataset2\osteoporosis\osteoporosis\211.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.78
+68,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_113.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.78
+68,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_113.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.78
+68,data\raw\dataset4\osteoporosis\osteoporosis\211.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.78
+69,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP129.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+69,data\raw\dataset2\osteoporosis\osteoporosis\213.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+69,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_114.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+69,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_114.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+69,data\raw\dataset4\osteoporosis\osteoporosis\213.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.77
+71,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP130.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+71,data\raw\dataset2\osteoporosis\osteoporosis\215.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+71,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_115.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+71,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_115.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+71,data\raw\dataset4\osteoporosis\osteoporosis\215.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.08
+73,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP132.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.05
+73,data\raw\dataset2\osteoporosis\osteoporosis\219.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.05
+73,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_117.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.05
+73,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_117.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.05
+73,data\raw\dataset4\osteoporosis\osteoporosis\219.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.05
+74,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP133.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.32
+74,data\raw\dataset2\osteoporosis\osteoporosis\221.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.32
+74,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_118.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.32
+74,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_118.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.32
+74,data\raw\dataset4\osteoporosis\osteoporosis\221.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.32
+75,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP134.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+75,data\raw\dataset2\osteoporosis\osteoporosis\223.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+75,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_119.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+75,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_119.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+75,data\raw\dataset4\osteoporosis\osteoporosis\223.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+77,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP136.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.4
+77,data\raw\dataset2\osteoporosis\osteoporosis\227.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.4
+77,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_122.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.4
+77,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_122.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.4
+77,data\raw\dataset4\osteoporosis\osteoporosis\227.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.4
+78,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP137.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+78,data\raw\dataset2\osteoporosis\osteoporosis\229.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+78,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_124.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+78,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_124.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+78,data\raw\dataset4\osteoporosis\osteoporosis\229.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.88
+79,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP138.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+79,data\raw\dataset2\osteoporosis\osteoporosis\231.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+79,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_125.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+79,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_125.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+79,data\raw\dataset4\osteoporosis\osteoporosis\231.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+82,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP140.jpg,normal/osteopenia,t_score,osteopenia,-1.05
+82,data\raw\dataset2\osteoporosis\normal\234n.jpg,normal/osteopenia,t_score,osteopenia,-1.05
+82,data\raw\dataset2\osteoporosis\normal\Normal_159.jpg,normal/osteopenia,t_score,osteopenia,-1.05
+82,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_159.jpg,normal/osteopenia,t_score,osteopenia,-1.05
+82,data\raw\dataset4\normal\normal\234n.jpg,normal/osteopenia,t_score,osteopenia,-1.05
+83,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP141.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+83,data\raw\dataset2\osteoporosis\osteoporosis\235.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+83,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_127.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+83,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_127.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+83,data\raw\dataset4\osteoporosis\osteoporosis\235.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.09
+84,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP142.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+84,data\raw\dataset2\osteoporosis\osteoporosis\236.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+84,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_128.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+84,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_128.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+84,data\raw\dataset4\osteoporosis\osteoporosis\236.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.39
+85,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP143.jpg,normal/osteopenia,t_score,osteopenia,-1.32
+85,data\raw\dataset2\osteoporosis\normal\237n.jpg,normal/osteopenia,t_score,osteopenia,-1.32
+85,data\raw\dataset2\osteoporosis\normal\Normal_160.jpg,normal/osteopenia,t_score,osteopenia,-1.32
+85,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_160.jpg,normal/osteopenia,t_score,osteopenia,-1.32
+85,data\raw\dataset4\normal\normal\237n.jpg,normal/osteopenia,t_score,osteopenia,-1.32
+86,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP144.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS32.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset2\osteoporosis\osteoporosis\238.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset2\osteoporosis\osteoporosis\306.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_129.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_172.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_129.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_172.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset4\osteoporosis\osteoporosis\238.jpg,osteopenia/osteoporosis,excluded,,
+86,data\raw\dataset4\osteoporosis\osteoporosis\306.jpg,osteopenia/osteoporosis,excluded,,
+88,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP146.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.81
+88,data\raw\dataset2\osteoporosis\osteoporosis\240.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.81
+88,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_131.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.81
+88,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_131.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.81
+88,data\raw\dataset4\osteoporosis\osteoporosis\240.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.81
+89,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP147.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.56
+89,data\raw\dataset2\osteoporosis\osteoporosis\241.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.56
+89,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_132.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.56
+89,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_132.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.56
+89,data\raw\dataset4\osteoporosis\osteoporosis\241.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.56
+90,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP148.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.08
+90,data\raw\dataset2\osteoporosis\osteoporosis\242.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.08
+90,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_133.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.08
+90,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_133.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.08
+90,data\raw\dataset4\osteoporosis\osteoporosis\242.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.08
+91,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP149.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+91,data\raw\dataset2\osteoporosis\osteoporosis\243.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+91,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_134.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+91,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_134.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+91,data\raw\dataset4\osteoporosis\osteoporosis\243.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.03
+93,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP150.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+93,data\raw\dataset2\osteoporosis\osteoporosis\244.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+93,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_135.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+93,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_135.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+93,data\raw\dataset4\osteoporosis\osteoporosis\244.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.1
+94,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP151.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+94,data\raw\dataset2\osteoporosis\osteoporosis\245.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+94,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_136.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+94,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_136.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+94,data\raw\dataset4\osteoporosis\osteoporosis\245.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.02
+95,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP152.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.97
+95,data\raw\dataset2\osteoporosis\osteoporosis\246.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.97
+95,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_137.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.97
+95,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_137.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.97
+95,data\raw\dataset4\osteoporosis\osteoporosis\246.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.97
+96,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP153.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.72
+96,data\raw\dataset2\osteoporosis\osteoporosis\247.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.72
+96,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_138.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.72
+96,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_138.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.72
+96,data\raw\dataset4\osteoporosis\osteoporosis\247.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.72
+97,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP154.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+97,data\raw\dataset2\osteoporosis\osteoporosis\248.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+97,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_139.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+97,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_139.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+97,data\raw\dataset4\osteoporosis\osteoporosis\248.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+138,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP52.jpg,normal/osteopenia,t_score,osteopenia,-2.1
+138,data\raw\dataset2\osteoporosis\normal\23.jpg,normal/osteopenia,t_score,osteopenia,-2.1
+138,data\raw\dataset2\osteoporosis\normal\Normal_23.jpg,normal/osteopenia,t_score,osteopenia,-2.1
+138,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_23.jpg,normal/osteopenia,t_score,osteopenia,-2.1
+138,data\raw\dataset4\normal\normal\23.jpg,normal/osteopenia,t_score,osteopenia,-2.1
+139,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP53.jpg,osteopenia/osteoporosis,excluded,,
+139,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS8.jpg,osteopenia/osteoporosis,excluded,,
+139,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS9.jpg,osteopenia/osteoporosis,excluded,,
+144,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP58.jpg,normal/osteopenia,t_score,osteopenia,-2.03
+144,data\raw\dataset2\osteoporosis\normal\41n.jpg,normal/osteopenia,t_score,osteopenia,-2.03
+144,data\raw\dataset2\osteoporosis\normal\Normal_54.jpg,normal/osteopenia,t_score,osteopenia,-2.03
+144,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_54.jpg,normal/osteopenia,t_score,osteopenia,-2.03
+144,data\raw\dataset4\normal\normal\41n.jpg,normal/osteopenia,t_score,osteopenia,-2.03
+184,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP94.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.15
+184,data\raw\dataset2\osteoporosis\osteoporosis\143.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.15
+184,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_80.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.15
+184,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_80.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.15
+184,data\raw\dataset4\osteoporosis\osteoporosis\143.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.15
+185,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP95.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.39
+185,data\raw\dataset2\osteoporosis\osteoporosis\145.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.39
+185,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_82.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.39
+185,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_82.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.39
+185,data\raw\dataset4\osteoporosis\osteoporosis\145.jpg,osteopenia/osteoporosis,t_score,osteopenia,-1.39
+186,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP96.jpg,osteopenia/osteoporosis,excluded,,
+186,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS24.jpg,osteopenia/osteoporosis,excluded,,
+187,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP97.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+187,data\raw\dataset2\osteoporosis\osteoporosis\149.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+187,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_84.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+187,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_84.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+187,data\raw\dataset4\osteoporosis\osteoporosis\149.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.01
+188,data\raw\dataset1\Osteoporosis Knee X-ray\osteopenia\OP98.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.31
+188,data\raw\dataset2\osteoporosis\osteoporosis\151.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.31
+188,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_85.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.31
+188,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_85.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.31
+188,data\raw\dataset4\osteoporosis\osteoporosis\151.jpg,osteopenia/osteoporosis,t_score,osteopenia,-2.31
+207,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS25.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS49.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset2\osteoporosis\normal\299n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset2\osteoporosis\osteoporosis\323.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset2\osteoporosis\normal\Normal_179.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_186.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_179.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_186.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset4\normal\normal\299n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+207,data\raw\dataset4\osteoporosis\osteoporosis\323.jpg,normal/osteoporosis,t_score,osteoporosis,-2.78;-2.99
+208,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS26.jpg,normal/osteoporosis,t_score,osteoporosis,-2.53
+208,data\raw\dataset2\osteoporosis\normal\300n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.53
+208,data\raw\dataset2\osteoporosis\normal\Normal_180.jpg,normal/osteoporosis,t_score,osteoporosis,-2.53
+208,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_180.jpg,normal/osteoporosis,t_score,osteoporosis,-2.53
+208,data\raw\dataset4\normal\normal\300n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.53
+216,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS33.jpg,normal/osteoporosis,t_score,osteoporosis,-2.76
+216,data\raw\dataset2\osteoporosis\normal\315n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.76
+216,data\raw\dataset2\osteoporosis\normal\Normal_184.jpg,normal/osteoporosis,t_score,osteoporosis,-2.76
+216,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_184.jpg,normal/osteoporosis,t_score,osteoporosis,-2.76
+216,data\raw\dataset4\normal\normal\315n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.76
+220,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS37.jpg,normal/osteoporosis,t_score,osteoporosis,-2.52
+220,data\raw\dataset2\osteoporosis\normal\311n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.52
+220,data\raw\dataset2\osteoporosis\normal\Normal_182.jpg,normal/osteoporosis,t_score,osteoporosis,-2.52
+220,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_182.jpg,normal/osteoporosis,t_score,osteoporosis,-2.52
+220,data\raw\dataset4\normal\normal\311n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.52
+222,data\raw\dataset1\Osteoporosis Knee X-ray\osteoporosis\OS39.jpg,normal/osteoporosis,t_score,osteoporosis,-2.99
+222,data\raw\dataset2\osteoporosis\normal\313n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.99
+222,data\raw\dataset2\osteoporosis\normal\Normal_183.jpg,normal/osteoporosis,t_score,osteoporosis,-2.99
+222,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_183.jpg,normal/osteoporosis,t_score,osteoporosis,-2.99
+222,data\raw\dataset4\normal\normal\313n.jpg,normal/osteoporosis,t_score,osteoporosis,-2.99
+355,data\raw\dataset2\osteoporosis\normal\20.png,normal/osteoporosis,excluded,,
+355,data\raw\dataset2\osteoporosis\osteoporosis\20.png,normal/osteoporosis,excluded,,
+355,data\raw\dataset2\osteoporosis\normal\Normal_19.jpg,normal/osteoporosis,excluded,,
+355,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_16.jpg,normal/osteoporosis,excluded,,
+355,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_19.jpg,normal/osteoporosis,excluded,,
+355,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_16.jpg,normal/osteoporosis,excluded,,
+355,data\raw\dataset4\normal\normal\20.png,normal/osteoporosis,excluded,,
+355,data\raw\dataset4\osteoporosis\osteoporosis\20.png,normal/osteoporosis,excluded,,
+428,data\raw\dataset2\osteoporosis\osteoporosis\26.JPEG,normal/osteoporosis,excluded,,
+428,data\raw\dataset2\osteoporosis\normal\26nn.JPEG,normal/osteoporosis,excluded,,
+428,data\raw\dataset2\osteoporosis\normal\Normal_29.jpg,normal/osteoporosis,excluded,,
+428,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_20.jpg,normal/osteoporosis,excluded,,
+428,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_29.jpg,normal/osteoporosis,excluded,,
+428,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_20.jpg,normal/osteoporosis,excluded,,
+428,data\raw\dataset4\osteoporosis\osteoporosis\26.JPEG,normal/osteoporosis,excluded,,
+428,data\raw\dataset4\normal\normal\26nn.JPEG,normal/osteoporosis,excluded,,
+461,data\raw\dataset2\osteoporosis\normal\29.JPEG,normal/osteoporosis,excluded,,
+461,data\raw\dataset2\osteoporosis\osteoporosis\29.JPEG,normal/osteoporosis,excluded,,
+461,data\raw\dataset2\osteoporosis\normal\Normal_33.jpg,normal/osteoporosis,excluded,,
+461,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_22.jpg,normal/osteoporosis,excluded,,
+461,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_33.jpg,normal/osteoporosis,excluded,,
+461,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_22.jpg,normal/osteoporosis,excluded,,
+461,data\raw\dataset4\normal\normal\29.JPEG,normal/osteoporosis,excluded,,
+461,data\raw\dataset4\osteoporosis\osteoporosis\29.JPEG,normal/osteoporosis,excluded,,
+521,data\raw\dataset2\osteoporosis\normal\4.png,normal/osteoporosis,excluded,,
+521,data\raw\dataset2\osteoporosis\osteoporosis\4.png,normal/osteoporosis,excluded,,
+521,data\raw\dataset2\osteoporosis\normal\Normal_3.jpg,normal/osteoporosis,excluded,,
+521,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_3.jpg,normal/osteoporosis,excluded,,
+521,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_3.jpg,normal/osteoporosis,excluded,,
+521,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_3.jpg,normal/osteoporosis,excluded,,
+521,data\raw\dataset4\normal\normal\4.png,normal/osteoporosis,excluded,,
+521,data\raw\dataset4\osteoporosis\osteoporosis\4.png,normal/osteoporosis,excluded,,
+575,data\raw\dataset2\osteoporosis\osteoporosis\7.png,normal/osteoporosis,excluded,,
+575,data\raw\dataset2\osteoporosis\normal\7nn.png,normal/osteoporosis,excluded,,
+575,data\raw\dataset2\osteoporosis\normal\Normal_7.jpg,normal/osteoporosis,excluded,,
+575,data\raw\dataset2\osteoporosis\osteoporosis\Osteoporosis_6.jpg,normal/osteoporosis,excluded,,
+575,data\raw\dataset3\Osteoporosis Knee Dataset\Normal\Normal_7.jpg,normal/osteoporosis,excluded,,
+575,data\raw\dataset3\Osteoporosis Knee Dataset\Osteoporosis\Osteoporosis_6.jpg,normal/osteoporosis,excluded,,
+575,data\raw\dataset4\osteoporosis\osteoporosis\7.png,normal/osteoporosis,excluded,,
+575,data\raw\dataset4\normal\normal\7nn.png,normal/osteoporosis,excluded,,

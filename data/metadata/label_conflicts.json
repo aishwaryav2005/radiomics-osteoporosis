@@ -1,0 +1,1971 @@
+[
+  {
+    "near_dup_group": 0,
+    "n_images": 2,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\normal\\N1.JPEG",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP13.JPEG"
+    ],
+    "sources": [
+      "dataset1"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 6,
+    "n_images": 2,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\normal\\N15.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP73.jpg"
+    ],
+    "sources": [
+      "dataset1"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 15,
+    "n_images": 2,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\normal\\N23.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP107.jpg"
+    ],
+    "sources": [
+      "dataset1"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 16,
+    "n_images": 9,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\normal\\N24.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\45.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\45o.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_59.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_30.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_59.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_30.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\45.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\45o.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "normal",
+    "t_scores": [
+      -0.78
+    ],
+    "patient_ids": [
+      "N24"
+    ]
+  },
+  {
+    "near_dup_group": 38,
+    "n_images": 10,
+    "classes_present": [
+      "normal",
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP100.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP112.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\155n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\179.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_120.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_97.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_120.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_97.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\155n.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\179.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.32,
+      -1.78
+    ],
+    "patient_ids": [
+      "OP100",
+      "OP112"
+    ]
+  },
+  {
+    "near_dup_group": 39,
+    "n_images": 10,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP101.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP135.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\157n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\225.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_122.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_156.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_122.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_156.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\157n.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\225.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.29,
+      -2.15
+    ],
+    "patient_ids": [
+      "OP101",
+      "OP135"
+    ]
+  },
+  {
+    "near_dup_group": 40,
+    "n_images": 10,
+    "classes_present": [
+      "normal",
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP102.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS40.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\314.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_186.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_177.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\n19.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_186.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_177.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\314.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\n19.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 41,
+    "n_images": 10,
+    "classes_present": [
+      "normal",
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP103.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP139.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\161.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\233n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_158.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_88.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_158.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_88.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\161.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\233n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.78,
+      -2.01
+    ],
+    "patient_ids": [
+      "OP103",
+      "OP139"
+    ]
+  },
+  {
+    "near_dup_group": 42,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP104.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\163.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_89.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_89.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\163.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.09
+    ],
+    "patient_ids": [
+      "OP104"
+    ]
+  },
+  {
+    "near_dup_group": 43,
+    "n_images": 10,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP105.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP99.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\153.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\165.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_87.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_90.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_87.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_90.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\153.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\165.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.28,
+      -1.61
+    ],
+    "patient_ids": [
+      "OP105",
+      "OP99"
+    ]
+  },
+  {
+    "near_dup_group": 44,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP106.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\167.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_91.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_91.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\167.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.1
+    ],
+    "patient_ids": [
+      "OP106"
+    ]
+  },
+  {
+    "near_dup_group": 46,
+    "n_images": 10,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP108.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP131.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\171.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\217.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_116.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_93.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_116.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_93.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\171.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\217.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.87,
+      -1.99
+    ],
+    "patient_ids": [
+      "OP108",
+      "OP131"
+    ]
+  },
+  {
+    "near_dup_group": 47,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP109.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\173.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_94.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_94.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\173.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.13
+    ],
+    "patient_ids": [
+      "OP109"
+    ]
+  },
+  {
+    "near_dup_group": 49,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP110.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\175.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_95.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_95.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\175.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.43
+    ],
+    "patient_ids": [
+      "OP110"
+    ]
+  },
+  {
+    "near_dup_group": 50,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP111.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\177.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_96.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_96.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\177.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.08
+    ],
+    "patient_ids": [
+      "OP111"
+    ]
+  },
+  {
+    "near_dup_group": 52,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP113.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\181.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_98.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_98.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\181.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.86
+    ],
+    "patient_ids": [
+      "OP113"
+    ]
+  },
+  {
+    "near_dup_group": 53,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP114.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\183.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_99.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_99.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\183.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.12
+    ],
+    "patient_ids": [
+      "OP114"
+    ]
+  },
+  {
+    "near_dup_group": 54,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP115.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\185.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_100.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_100.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\185.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.52
+    ],
+    "patient_ids": [
+      "OP115"
+    ]
+  },
+  {
+    "near_dup_group": 55,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP116.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\187n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_138.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_138.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\187n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.37
+    ],
+    "patient_ids": [
+      "OP116"
+    ]
+  },
+  {
+    "near_dup_group": 56,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP117.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\189.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_101.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_101.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\189.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.09
+    ],
+    "patient_ids": [
+      "OP117"
+    ]
+  },
+  {
+    "near_dup_group": 57,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP118.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\191.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_102.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_102.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\191.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.88
+    ],
+    "patient_ids": [
+      "OP118"
+    ]
+  },
+  {
+    "near_dup_group": 58,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP119.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\193.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_103.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_103.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\193.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.03
+    ],
+    "patient_ids": [
+      "OP119"
+    ]
+  },
+  {
+    "near_dup_group": 60,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP120.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\195.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_104.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_104.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\195.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.98
+    ],
+    "patient_ids": [
+      "OP120"
+    ]
+  },
+  {
+    "near_dup_group": 61,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP121.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\197.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_105.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_105.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\197.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.52
+    ],
+    "patient_ids": [
+      "OP121"
+    ]
+  },
+  {
+    "near_dup_group": 64,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP124.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\203.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_108.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_108.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\203.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.87
+    ],
+    "patient_ids": [
+      "OP124"
+    ]
+  },
+  {
+    "near_dup_group": 65,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP125.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\205n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_148.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_148.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\205n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.08
+    ],
+    "patient_ids": [
+      "OP125"
+    ]
+  },
+  {
+    "near_dup_group": 66,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP126.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\207.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_110.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_110.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\207.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.39
+    ],
+    "patient_ids": [
+      "OP126"
+    ]
+  },
+  {
+    "near_dup_group": 67,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP127.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\209.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_112.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_112.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\209.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.77
+    ],
+    "patient_ids": [
+      "OP127"
+    ]
+  },
+  {
+    "near_dup_group": 68,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP128.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\211.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_113.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_113.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\211.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.78
+    ],
+    "patient_ids": [
+      "OP128"
+    ]
+  },
+  {
+    "near_dup_group": 69,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP129.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\213.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_114.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_114.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\213.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.77
+    ],
+    "patient_ids": [
+      "OP129"
+    ]
+  },
+  {
+    "near_dup_group": 71,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP130.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\215.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_115.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_115.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\215.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.08
+    ],
+    "patient_ids": [
+      "OP130"
+    ]
+  },
+  {
+    "near_dup_group": 73,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP132.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\219.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_117.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_117.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\219.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.05
+    ],
+    "patient_ids": [
+      "OP132"
+    ]
+  },
+  {
+    "near_dup_group": 74,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP133.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\221.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_118.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_118.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\221.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.32
+    ],
+    "patient_ids": [
+      "OP133"
+    ]
+  },
+  {
+    "near_dup_group": 75,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP134.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\223.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_119.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_119.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\223.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.09
+    ],
+    "patient_ids": [
+      "OP134"
+    ]
+  },
+  {
+    "near_dup_group": 77,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP136.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\227.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_122.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_122.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\227.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.4
+    ],
+    "patient_ids": [
+      "OP136"
+    ]
+  },
+  {
+    "near_dup_group": 78,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP137.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\229.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_124.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_124.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\229.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.88
+    ],
+    "patient_ids": [
+      "OP137"
+    ]
+  },
+  {
+    "near_dup_group": 79,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP138.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\231.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_125.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_125.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\231.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.02
+    ],
+    "patient_ids": [
+      "OP138"
+    ]
+  },
+  {
+    "near_dup_group": 82,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP140.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\234n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_159.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_159.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\234n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.05
+    ],
+    "patient_ids": [
+      "OP140"
+    ]
+  },
+  {
+    "near_dup_group": 83,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP141.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\235.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_127.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_127.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\235.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.09
+    ],
+    "patient_ids": [
+      "OP141"
+    ]
+  },
+  {
+    "near_dup_group": 84,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP142.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\236.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_128.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_128.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\236.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.39
+    ],
+    "patient_ids": [
+      "OP142"
+    ]
+  },
+  {
+    "near_dup_group": 85,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP143.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\237n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_160.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_160.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\237n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.32
+    ],
+    "patient_ids": [
+      "OP143"
+    ]
+  },
+  {
+    "near_dup_group": 86,
+    "n_images": 10,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP144.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS32.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\238.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\306.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_129.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_172.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_129.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_172.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\238.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\306.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 88,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP146.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\240.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_131.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_131.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\240.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.81
+    ],
+    "patient_ids": [
+      "OP146"
+    ]
+  },
+  {
+    "near_dup_group": 89,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP147.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\241.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_132.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_132.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\241.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.56
+    ],
+    "patient_ids": [
+      "OP147"
+    ]
+  },
+  {
+    "near_dup_group": 90,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP148.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\242.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_133.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_133.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\242.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.08
+    ],
+    "patient_ids": [
+      "OP148"
+    ]
+  },
+  {
+    "near_dup_group": 91,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP149.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\243.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_134.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_134.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\243.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.03
+    ],
+    "patient_ids": [
+      "OP149"
+    ]
+  },
+  {
+    "near_dup_group": 93,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP150.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\244.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_135.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_135.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\244.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.1
+    ],
+    "patient_ids": [
+      "OP150"
+    ]
+  },
+  {
+    "near_dup_group": 94,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP151.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\245.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_136.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_136.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\245.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.02
+    ],
+    "patient_ids": [
+      "OP151"
+    ]
+  },
+  {
+    "near_dup_group": 95,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP152.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\246.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_137.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_137.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\246.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.97
+    ],
+    "patient_ids": [
+      "OP152"
+    ]
+  },
+  {
+    "near_dup_group": 96,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP153.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\247.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_138.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_138.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\247.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.72
+    ],
+    "patient_ids": [
+      "OP153"
+    ]
+  },
+  {
+    "near_dup_group": 97,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP154.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\248.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_139.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_139.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\248.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.01
+    ],
+    "patient_ids": [
+      "OP154"
+    ]
+  },
+  {
+    "near_dup_group": 138,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP52.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\23.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_23.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_23.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\23.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.1
+    ],
+    "patient_ids": [
+      "OP52"
+    ]
+  },
+  {
+    "near_dup_group": 139,
+    "n_images": 3,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP53.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS8.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS9.jpg"
+    ],
+    "sources": [
+      "dataset1"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 144,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteopenia"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP58.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\41n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_54.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_54.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\41n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.03
+    ],
+    "patient_ids": [
+      "OP58"
+    ]
+  },
+  {
+    "near_dup_group": 184,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP94.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\143.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_80.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_80.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\143.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.15
+    ],
+    "patient_ids": [
+      "OP94"
+    ]
+  },
+  {
+    "near_dup_group": 185,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP95.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\145.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_82.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_82.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\145.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -1.39
+    ],
+    "patient_ids": [
+      "OP95"
+    ]
+  },
+  {
+    "near_dup_group": 186,
+    "n_images": 2,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP96.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS24.jpg"
+    ],
+    "sources": [
+      "dataset1"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 187,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP97.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\149.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_84.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_84.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\149.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.01
+    ],
+    "patient_ids": [
+      "OP97"
+    ]
+  },
+  {
+    "near_dup_group": 188,
+    "n_images": 5,
+    "classes_present": [
+      "osteopenia",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteopenia\\OP98.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\151.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_85.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_85.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\151.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteopenia",
+    "t_scores": [
+      -2.31
+    ],
+    "patient_ids": [
+      "OP98"
+    ]
+  },
+  {
+    "near_dup_group": 207,
+    "n_images": 10,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS25.jpg",
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS49.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\299n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\323.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_179.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_186.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_179.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_186.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\299n.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\323.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteoporosis",
+    "t_scores": [
+      -2.78,
+      -2.99
+    ],
+    "patient_ids": [
+      "OS25",
+      "OS49"
+    ]
+  },
+  {
+    "near_dup_group": 208,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS26.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\300n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_180.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_180.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\300n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteoporosis",
+    "t_scores": [
+      -2.53
+    ],
+    "patient_ids": [
+      "OS26"
+    ]
+  },
+  {
+    "near_dup_group": 216,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS33.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\315n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_184.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_184.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\315n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteoporosis",
+    "t_scores": [
+      -2.76
+    ],
+    "patient_ids": [
+      "OS33"
+    ]
+  },
+  {
+    "near_dup_group": 220,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS37.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\311n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_182.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_182.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\311n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteoporosis",
+    "t_scores": [
+      -2.52
+    ],
+    "patient_ids": [
+      "OS37"
+    ]
+  },
+  {
+    "near_dup_group": 222,
+    "n_images": 5,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset1\\Osteoporosis Knee X-ray\\osteoporosis\\OS39.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\313n.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_183.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_183.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\313n.jpg"
+    ],
+    "sources": [
+      "dataset1",
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "t_score",
+    "resolved_class": "osteoporosis",
+    "t_scores": [
+      -2.99
+    ],
+    "patient_ids": [
+      "OS39"
+    ]
+  },
+  {
+    "near_dup_group": 355,
+    "n_images": 8,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset2\\osteoporosis\\normal\\20.png",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\20.png",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_19.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_16.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_19.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_16.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\20.png",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\20.png"
+    ],
+    "sources": [
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 428,
+    "n_images": 8,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\26.JPEG",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\26nn.JPEG",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_29.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_20.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_29.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_20.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\26.JPEG",
+      "data\\raw\\dataset4\\normal\\normal\\26nn.JPEG"
+    ],
+    "sources": [
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 461,
+    "n_images": 8,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset2\\osteoporosis\\normal\\29.JPEG",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\29.JPEG",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_33.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_22.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_33.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_22.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\29.JPEG",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\29.JPEG"
+    ],
+    "sources": [
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 521,
+    "n_images": 8,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset2\\osteoporosis\\normal\\4.png",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\4.png",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_3.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_3.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_3.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_3.jpg",
+      "data\\raw\\dataset4\\normal\\normal\\4.png",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\4.png"
+    ],
+    "sources": [
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  },
+  {
+    "near_dup_group": 575,
+    "n_images": 8,
+    "classes_present": [
+      "normal",
+      "osteoporosis"
+    ],
+    "files": [
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\7.png",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\7nn.png",
+      "data\\raw\\dataset2\\osteoporosis\\normal\\Normal_7.jpg",
+      "data\\raw\\dataset2\\osteoporosis\\osteoporosis\\Osteoporosis_6.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Normal\\Normal_7.jpg",
+      "data\\raw\\dataset3\\Osteoporosis Knee Dataset\\Osteoporosis\\Osteoporosis_6.jpg",
+      "data\\raw\\dataset4\\osteoporosis\\osteoporosis\\7.png",
+      "data\\raw\\dataset4\\normal\\normal\\7nn.png"
+    ],
+    "sources": [
+      "dataset2",
+      "dataset3",
+      "dataset4"
+    ],
+    "resolution": "excluded",
+    "resolved_class": null
+  }
+]
